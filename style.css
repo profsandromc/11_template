@@ -3,3 +3,24 @@
     margin: 0;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
+
+/* HEADER */
+header{
+    width: 100%;
+    height: 400px;
+    background-image: url('./img/img_mindset.jpeg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: table;
+    
+}
+header h1{
+    color: #333;
+    font-size: 6.5rem;
+    opacity: 0.7;
+    background-color: white;
+    display: table-cell;
+    vertical-align: middle;
+}
