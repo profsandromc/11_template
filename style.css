@@ -24,3 +24,23 @@ header h1{
     display: table-cell;
     vertical-align: middle;
 }
+
+/* MAIN */
+main{
+    width: 100%;
+    display: block;
+    float: left;
+    height: auto;
+    background-color: rgb(223, 228, 227);
+}
+main article{
+    width: 80%;
+    margin-left: 10%;
+}
+main * {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+main img{
+    width: 100%;
+}
